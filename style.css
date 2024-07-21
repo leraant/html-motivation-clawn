@@ -1,0 +1,45 @@
+body {
+    background-color: #0c0f06;
+}
+
+#main_image {
+    width: 450px;
+    height: 700px;
+    border: solid 5px white;
+    margin: 0px 0px 0px 0px;
+}
+
+.maname-regular {
+    font-size: 57px;
+    font-family: "Maname", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.arvo-regular {
+    font-family: "Arvo", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Love Mint', sans-serif;
+    text-align: left;
+    font-family: "";
+    margin: -570px 0px 0px 700px;
+    color: white;
+}
+
+p {
+    text-align: left;
+    margin: 70px 0px 0px 800px;
+    color: #81360f;
+}
+
+#heel {
+    width: 90px;
+    height: 90px;
+    margin: 70px 0px 0px 1150px;
+}
